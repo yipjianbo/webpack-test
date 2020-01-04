@@ -8,8 +8,6 @@ const path = require("path");
 const webpack = require("webpack");
 let a = path.join(__dirname, '../static/js')
 let b = path.resolve(__dirname, '../static/js')
-console.log('a>>>', a)
-console.log('b>>>', b)
 module.exports = {
   // 你想要打包的模块的数组
   entry: {
