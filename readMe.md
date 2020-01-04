@@ -3,7 +3,7 @@
 cnpm install || npm install
 ```
 
-### if you are frist to run command
+### if you are first time to run command
 ```
 npm run dll
 ```
